@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<parameter>
+  <p>
+    <name>OFF</name>
+    <value>0</value>
+  </p>
+  
+  <p>
+    <name>5 Sec</name>
+    <value>8</value>
+  </p>
+
+  <p>
+    <name>10 Sec</name>
+    <value>16</value>
+  </p>
+
+  <p>
+    <name>15 Sec</name>
+    <value>24</value>
+  </p>
+
+  <p>
+    <name>20 Sec</name>
+    <value>32</value>
+  </p>
+
+  <p>
+    <name>25 Sec</name>
+    <value>40</value>
+  </p>
+
+  <p>
+    <name>30 Sec</name>
+    <value>47</value>
+  </p>
+
+  <p>
+    <name>35 Sec</name>
+    <value>55</value>
+  </p>
+
+  <p>
+    <name>40 Sec</name>
+    <value>63</value>
+  </p>
+
+  <p>
+    <name>45 Sec</name>
+    <value>71</value>
+  </p>
+
+  <p>
+    <name>50 Sec</name>
+    <value>79</value>
+  </p>
+
+  <p>
+    <name>55 Sec</name>
+    <value>86</value>
+  </p>
+
+  <p>
+    <name>60 Sec</name>
+    <value>94</value>
+  </p>
+
+  <p>
+    <name>80 Sec</name>
+    <value>125</value>
+  </p>
+
+  <p>
+    <name>100 Sec</name>
+    <value>157</value>
+  </p>
+
+  <p>
+    <name>120 Sec</name>
+    <value>188</value>
+  </p>
+
+  <p>
+    <name>140 Sec</name>
+    <value>219</value>
+  </p>
+
+  <p>
+    <name>160 Sec</name>
+    <value>250</value>
+  </p>
+
+</parameter>
+
+
